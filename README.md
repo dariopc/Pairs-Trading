@@ -1,4 +1,4 @@
-**Pairs Trading System**
+# Pairs Trading System
 
 This repository contains the implementation of a pairs trading system. The project employs object-oriented programming techniques to create a scalable and efficient system for identifying and trading on mean-reverting opportunities in financial markets.
 Project Overview
